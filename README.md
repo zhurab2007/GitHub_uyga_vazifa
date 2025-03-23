@@ -1,4 +1,5 @@
-<span style="font-size: 22px; font-weight: bold;">📌 GitHub uyga vazifasi</span>
+<h2 style="border-bottom: none; margin-bottom: 0;">📌 GitHub uyga vazifasi</h2>
+
 
 
 ## Git and GitHub<br>
