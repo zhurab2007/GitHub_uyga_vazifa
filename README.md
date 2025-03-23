@@ -1,4 +1,4 @@
-<h2 style="border-bottom: none; margin-bottom: 0;">📌 GitHub uyga vazifasi</h2><br>
+- [x] GitHub uyga vazifasi
 
 ## Git and GitHub<br>
 > `Version control` - degani dasturiy ta'minotni ishlab chiqishda yoki loyihalarni boshqarishda fayllar kodlar yoki hujjatlarning o'zgarishlarini kuzatib borish tizimini anglatadi.<br>
@@ -14,6 +14,5 @@
 > `• git config --global --edit`<br>
 > `• git config --global --list`<br>
 
-![Animatsiya](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 
