@@ -1,4 +1,5 @@
-<h2 style="border-bottom: none; margin-bottom: 0;">📌 GitHub uyga vazifasi</h2>
+## 📌 GitHub uyga vazifasi \<!-- -->
+
 
 
 
