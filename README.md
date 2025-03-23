@@ -14,3 +14,6 @@
 > `• git config --global --edit`<br>
 > `• git config --global --list`<br>
 
+![GitHub followers](https://img.shields.io/github/followers/github?style=social)
+![GitHub stars](https://img.shields.io/github/stars/github?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/github/docs)
