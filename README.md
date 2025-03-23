@@ -6,10 +6,10 @@
 
  `Git` - bu Distributed Version Control System yani dasturiy taminotni ishlab chiqishida va boshqa loyihalarda fayllarning o'zgarishlarini kuzatish boshqarish va jamoaviy ishni muvofiqlashtirish uchun ishlatiladigan kuchli vosita.<br>
 
-> #`📌Config`
-> `• git config --global user.name <name>
-> • git config --global user.email <email>
-> • git config --global init.defaultBranch main
-> • git config --global --edit
-> • git config --global --list`
+#`📌Config`<br>
+> `• git config --global user.name <name>`<br>
+> `• git config --global user.email <email>`<br>
+> `• git config --global init.defaultBranch main`<br>
+> `• git config --global --edit`<br>
+> `• git config --global --list`<br>
 
