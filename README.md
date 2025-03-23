@@ -1,7 +1,4 @@
-## 📌 GitHub uyga vazifasi \<!-- -->
-
-
-
+<span style="font-size: 26px; font-weight: bold;">📌 GitHub uyga vazifasi</span>
 
 ## Git and GitHub<br>
 > `Version control` - degani dasturiy ta'minotni ishlab chiqishda yoki loyihalarni boshqarishda fayllar kodlar yoki hujjatlarning o'zgarishlarini kuzatib borish tizimini anglatadi.<br>
