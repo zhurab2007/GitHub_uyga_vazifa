@@ -1,5 +1,6 @@
 ##📌GitHub uyga vazifasi<br>
-## Git and GitHub
+
+## Git and GitHub<br>
 > `Version control` - degani dasturiy ta'minotni ishlab chiqishda yoki loyihalarni boshqarishda fayllar kodlar yoki hujjatlarning o'zgarishlarini kuzatib borish tizimini anglatadi.<br>
 
 > `Local version control(mahalliy versiya nazorati)` - bu version control tizimining bir turi bo'lib unda barcha va fayl versiyalari faqat bitta foydalanuvchining o'z kampyuterida saqlanadi.<br>
