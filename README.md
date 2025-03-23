@@ -1,4 +1,4 @@
-##📌GitHub uyga vazifasi<br>
+## 📌GitHub uyga vazifasi<br>
 
 ## Git and GitHub<br>
 > `Version control` - degani dasturiy ta'minotni ishlab chiqishda yoki loyihalarni boshqarishda fayllar kodlar yoki hujjatlarning o'zgarishlarini kuzatib borish tizimini anglatadi.<br>
@@ -7,7 +7,7 @@
 
  `Git` - bu Distributed Version Control System yani dasturiy taminotni ishlab chiqishida va boshqa loyihalarda fayllarning o'zgarishlarini kuzatish boshqarish va jamoaviy ishni muvofiqlashtirish uchun ishlatiladigan kuchli vosita.<br>
 
-#`📌Config`<br>
+# 📌Config <br>
 > `• git config --global user.name <name>`<br>
 > `• git config --global user.email <email>`<br>
 > `• git config --global init.defaultBranch main`<br>
