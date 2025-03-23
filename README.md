@@ -5,6 +5,6 @@
   Bu yerda siz istalgan matn yoki havolani joylashtirishingiz mumkin.
 </div>
 > 🚀 Bu matn tortburchak ichida chiqadi.
-> Markdown'da quote (`>`) belgisi orqali hosil qilingan.
+> Markdown'da quote (`>`) belgisi orqali hosil qilingan.>
 
 
